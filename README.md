@@ -1,11 +1,10 @@
 # Classification Plant Pathology Kaggle
 
 ## Topics Covered
-- Load image data and save to **Pickle** for quick loading
 - Construct multilayer CNN using **Tensorflow Keras**
 - Optimize CNN using different network configurations
-- Visualise network accuracy and error using **Tensorboard**
-
+- **Data Augmentation** with **ImageDataGenerator**
+  
 ## How to run
 1. Build docker image
    
